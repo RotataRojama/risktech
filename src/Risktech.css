@@ -1,0 +1,164 @@
+@import '../node_modules/@fortawesome/fontawesome-svg-core/styles.css';
+
+.headx {
+    max-width: 100%;
+    display: inline-flex;
+}
+.headx1 {
+    margin-left: 80px;
+    margin-top: 60px;
+    margin-bottom: 133px;
+}
+.headx2 {
+    margin-left: 80px;
+    margin-top: 60px;
+    margin-bottom: 133px;
+}
+.headx3 {
+    margin-left: 80px;
+    margin-top: 60px;
+    margin-bottom: 133px;
+}
+.headx4 {
+    margin-left: 80px;
+    margin-top: 60px;
+    margin-bottom: 133px;
+}
+.headx5 {
+    margin-left: 80px;
+    margin-top: 60px;
+    margin-bottom: 133px;
+}
+.headx6 {
+    margin-left: 80px;
+    margin-top: 60px;
+    margin-bottom: 133px;
+}
+.headxL {
+    margin-left: 120px;
+    margin-top: 47px;
+    margin-bottom: 119px;
+}
+a {
+    color: black;
+    line-height: 24px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.link {
+    color: black;
+    line-height: 24px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+
+
+.fresh {
+    padding-left: 22px;
+    width: 550px;
+    height: 902px;
+}
+.fresh-text1 {
+    font-weight: 500;
+    text-align: right;
+    line-height: 78px;
+    margin-right: 100px;
+    padding-top: 40px;
+    font-size: 64px;
+}
+.fresh-text2 {
+    font-weight: 300;
+    margin-right: 100px;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: right;
+    padding-left: 20px;
+}
+.fresh-text3 {
+    font-weight: 300;
+    margin-right: 100px;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: right;
+    padding-left: 20px;
+    margin-top: 20px;
+}
+.fresh-button {
+    border: 4px solid #A9202E;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 8px 30px;
+    margin: 50px 100px 0 400px;
+    color: white;
+    background-color:#A9202E;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 16px;
+}
+.fresh-icons {
+    margin-top: 100px;
+    margin-left: 450px;
+    display: flex;
+}
+.fresh-icons1 {
+    margin-right: 15px;
+}
+.fresh-icons2 {
+    margin-right: 15px;
+}
+
+
+
+
+
+
+
+.wwa-text1 {
+    font-weight: 500;
+    text-align: center;
+    line-height: 78px;
+    margin-right: 100px;
+    font-size: 64px;
+    margin: 0 190px 100px 190px;
+}
+.wwa-text2 {
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    margin: 0 150px 0 150px;
+}
+.wwa-text3 {
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    margin: 40px 150px 0 150px;
+}
+.wwa-button {
+    border: 4px solid #A9202E;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 8px 30px;
+    margin: 50px 585px 0 585px;
+    color: white;
+    background-color:#A9202E;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 16px;
+}
+.wwa-icons {
+    margin-top: 100px;
+    margin-left: 1100px;
+    display: flex;
+}
+.wwa-icons1 {
+    margin-right: 20px;
+}
+.wwa-icons2 {
+    margin-right: 20px;
+}
